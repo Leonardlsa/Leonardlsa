@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leonardlsa
-- 👀 I’m interested in Developing interedting program
+- 👀 I’m interested in Developing interesting program
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 To reach me by QQ:2322176165
