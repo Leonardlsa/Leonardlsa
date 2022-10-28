@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leonardlsa
-- 👀 I’m interested in Developing interesting program
-- 🌱 I’m currently learning python
+- 👀 I’m interested in web security and algorithm.
+- 🌱 I’m currently learning algorithm
 - 💞️ I’m looking to collaborate on ...
 - 📫 To reach me by QQ:2322176165
 
